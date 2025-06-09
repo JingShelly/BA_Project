@@ -1,0 +1,34 @@
+Category,ETF Name,Inception Date,Currency,Total Assets,Comment
+Stock,SPY,1993-01-22,USD,5.72927e+11,S&P 500 Index
+Stock,ASHR.L,2014-01-08,USD,2.70395e+08,China A50 Index
+Stock,VPL,2001-08-13,USD,9.90257e+09,Developed Asia Pacific Index
+Stock,INDA,2012-02-02,USD,9.09367e+09,India Index
+Bond,TLT,2002-07-22,USD,4.81417e+10,long-term U.S. Treasury bonds
+Markets,EMXC,2017-07-18,USD,1.47132e+10,China
+Markets,IEMG,2012-10-18,USD,8.37324e+10,"China, India, Brazil, and South Korea."
+Markets,XMAF.L,2011-05-09,USD,3.58986e+07,Africa
+Markets,VDNR.L,2019-07-23,USD,3.71356e+09,North America
+Markets,KSA,2015-09-16,USD,7.14806e+08,"Saudi Arabia, Middle East"
+Markets,EDEN,2012-01-25,USD,2.20221e+08,Denmark
+Markets,VGK,2001-08-13,USD,2.95995e+10,Europe
+Technology,SEMI.AS,2021-08-05,USD,9.18762e+08,Semiconductors
+AI,AIEQ,2017-10-17,USD,1.02225e+08,AI-powered investment strategy
+Crypto,BCHN.L,2019-03-08,USD,5.50631e+08,Bitcoin Cash.
+Commodity,GLD,2004-11-18,USD,1.00215e+11,Gold 
+Commodity,SLV,2006-04-21,USD,1.46555e+10,SIlver 
+Energy,USO,2006-04-10,USD,9.61947e+08,crude oil
+Commodity,DBO,2007-01-05,USD,1.67690e+08,Crude oil futures contracts
+Commodity,CORN,2010-06-09,USD,5.21529e+07,Corn futures contracts
+Defense,PSCC,2010-04-07,USD,4.37891e+07,S&P SmallCap 600 Consumer Staples
+Energy,VDE,2004-10-07,USD,8.42289e+09,nergy sector of the U.S
+Real Estate,IDUP.L,2006-11-03,USD,6.44148e+08,World Real Estate Index
+Real Estate,VNQ,2001-11-12,USD,6.40137e+10,US real estate companies.
+Ten Oldest,EWU,1996-03-12,USD,3.22145e+09,UK equities.
+Ten Oldest,EWS,1996-03-12,USD,6.74102e+08,Singapore equities.
+Ten Oldest,EWW,1996-03-12,USD,1.87492e+09,Mexican equities.
+Ten Oldest,EWJ,1996-03-12,USD,1.44110e+10,Japanese equities.
+Ten Oldest,EWH,1996-03-12,USD,5.89816e+08,Hong Kong equities.
+Ten Oldest,EWG,1996-03-12,USD,2.23640e+09,German equities.
+Ten Oldest,EWQ,1996-03-12,USD,3.86588e+08,French equities.
+Ten Oldest,EWC,1996-03-12,USD,2.77636e+09,Canadian equities.
+Ten Oldest,EWA,1996-03-12,USD,1.48806e+09,Australian equities.
